@@ -1,0 +1,8 @@
+
+{
+  "name": "AI动画英语",
+  "description": "AI动画英语点读平台，支持句子级点读、生词翻译及自主内容管理。",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
