@@ -147,7 +147,7 @@ export const ReaderApp: React.FC<AppProps> = ({ onNavigate }) => {
       <ReaderNavbar />
       
       <main className="max-w-6xl mx-auto px-6 py-12 flex-grow">
-        <div className="mb-10">
+         <div className="mb-5">
           <p className="text-slate-500 font-medium">AI动画辅助，让英语学习更直观有趣。</p>
         </div>
 
